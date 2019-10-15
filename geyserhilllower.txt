@@ -1,0 +1,91 @@
+Lower route on Geyser Hill Hike
+-1,0,Safe driving
+0,0,side trip to biscuit basin
+0,4,see castle from road
+0,0,turn up radio
+0,0,read trail guide
+1,0,flat tire
+0,0,roll down windows
+0,0,look at clouds
+0,-4,stuck in traffic
+0,0,film for family video
+0,4,lunch time
+0,2,park in shady spot
+0,-5,no parking
+0,0,check in at lodge
+0,0,geyser grill burger
+1,0,long lines
+0,0,snow lodge gift shop
+0,3,rent bikes
+0,0,spaghetti dinner at lodge
+0,-3,need batteries
+0,0,stuffed animal fight
+0,4,ahead of schedule
+0,-8,deal breaker
+-1,0,win monopoly deal
+0,0,leftovers for lunch
+0,0,chill in lodge
+1,0,tour bus crowds
+0,0,cool breeze
+0,5,catch OF
+0,-2,trip on rocks
+0,0,VC
+0,0,geology lesson
+0,4,get ranger badge
+0,0,visit inn
+1,0,construction
+0,0,get predictions
+0,0,talk to ranger
+0,-7,forget map,
+0,0,vc exhibits
+-1,0,take photo for couple
+0,2,good service
+0,-5,step off boardwalk
+0,0,pose for webcam
+0,0,front row seats
+0,3,zip off pants
+0,-9,high
+1,0,bathroom break
+0,0,apply bug spray
+0,2,
+0,-6,rocks in shoe
+0,0,douglas fir pinecones
+0,0,family photo on bridge
+0,0,choose path
+0,3,
+1,0,pick flower
+0,0,choose path
+0,0,chipmunk on boardwalk
+0,0,read little johnny sign
+1,0,miss anemone
+0,0,rip plume
+0,-3,get wet
+0,0,wait for beehive
+-1,0,explain beehive indicator
+0,0,heart spring
+1,0,slow walkers
+1,0,trash in spring
+0,0,surprise lion
+0,0,tune in to walkie talkie (path join)
+0,0,drink from camelbak
+-1,0,
+0,0,see magpie
+0,3,
+0,-2,
+0,-5,
+0,0,sawmill
+0,0,proceed to grand
+0,0,[go to castle]
+0,0,spasmodic
+0,2,penta geyser
+1,0,hail storm
+0,0,talk with gazers
+0,-4,get sunburn
+0,5,
+0,0,watch movie
+0,-7,getting dark
+-1,0,turban cycle
+0,0,
+0,0,watch sunset
+0,2,waves on grand
+0,-6,long wait

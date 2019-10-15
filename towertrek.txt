@@ -1,0 +1,105 @@
+Tower Trek path
+0,0,take photos of tower
+0,2,careful of matches
+0,0,drive with care
+0,0,slow for entrance station
+-1,0,pay here
+0,0,talk to the ranger
+0,0,read pamphlet
+0,-8,fail to pay
+0,3,your birthday
+0,0,primitive campground
+0,-5,flat tire
+0,0,slow for bridge
+1,0,fall in river
+0,0,see hiking trail
+0,3,smell flowers
+0,0,spot vultures overhead
+0,-3,speeding
+0,0,see prairie dogs
+-1,0,take photots
+0,4,careful for cyclists
+1,0,park on road
+0,4,do not feed animals
+0,-5,hand in prairie dog hole
+0,0,stop in campground
+0,2,leave clean camp
+0,0,see deer
+0,0,admin building
+0,0,see red rocks
+0,0,maintenance shop
+1,0,speeding
+0,0,see yellow rocks
+-1,0,pick up trash
+0,-9,drunk
+0,0,spot a rabbit
+0,0,see climber on tower
+0,-9,poison ivy
+0,6,report a fire
+0,0,see red fox
+0,0,see burr oak tree
+1,0,rattlesnake
+0,6,drive on road
+0,-4,forest fire
+0,0,observe owl
+0,-6,stepped on skunk
+0,0,see sandstone cliff
+1,0,pick a flower
+0,0,hear coyote howl
+0,4,drive carefully
+0,0,see a bobcat
+0,-7,no parking
+0,0,see a chipmunk
+0,0,park here
+0,0,look at exhitibits
+0,0,VC
+0,0,see movie about geology
+0,0,talk to a ranger
+-1,0,register to climb
+0,0,start tower trail
+0,-3,drop a pop can
+0,0,see a pine tree
+0,4,pick up trash
+0,0,see stake ladder
+0,-3,trip over log
+0,-6,lost in boulder field
+0,0,start to climb here
+1,0,forgot rope
+0,4,remember rope knots
+0,6,good climbing
+0,0,see old pitons in crack
+0,-5,off route
+0,0,tie in to rock
+0,3,drink from canteen
+0,-2,fall on rope
+0,0,reach ledge to rest
+0,0,sunny sky above
+0,-7,dislodge rock
+0,3,step over flower
+0,0,see lichen on rock
+0,9,belay partner safety
+0,0,enjoy view
+0,-10,climbing alone
+0,0,look at clouds
+0,0,see river below
+1,0,climbing route closed
+0,0,see the eagle
+0,4,good holds
+0,-4,loose rock
+0,0,cloudy sky above
+0,-7,thunder storm
+0,0,catch breath
+0,0,careful with rocks
+1,0,slipping
+0,0,[falling]
+1,0,getting dark
+0,0,see rock doves
+0,2,quick energy from lunch
+0,-6,hail storm
+0,0,see prairie falcons
+0,0,take a test
+0,-26,climbing alone
+0,0,look at the view
+0,3,sign register
+0,0,see sage brush
+0,-9,step on catcus
