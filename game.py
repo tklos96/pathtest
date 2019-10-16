@@ -48,3 +48,9 @@ class Game():
         self.landed = np.zeros(self.spaces)
         self.ended = np.zeros(self.spaces)
         return
+
+    def runGame(self):
+        self.newGame()
+        while(not self.won):
+            self.advanceTurn()
+        return self.turn

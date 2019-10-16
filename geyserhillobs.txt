@@ -1,4 +1,4 @@
-Lower route on Geyser Hill Hike
+Upper route on Geyser Hill Hike
 -1,0,Safe driving
 0,0,side trip to biscuit basin
 0,4,see castle from road
@@ -52,20 +52,26 @@ Lower route on Geyser Hill Hike
 0,0,douglas fir pinecones
 0,0,family photo on bridge
 0,0,choose path
-0,3,pick up can
-1,0,pick flower
-0,0,choose path
-0,0,chipmunk on boardwalk
-0,0,read little johnny sign
-1,0,miss anemone
-0,0,rip plume
-0,-3,get wet
-1,0,wait for beehive
--1,0,explain beehive indicator
-0,0,heart spring
-1,0,slow walkers
-1,0,trash in spring
-0,0,surprise lion
+0,3,pick up wrapper
+1,0,fined for dog
+0,0,lodgepole pines
+0,0,photograph flowers
+0,0,take snack break
+1,0,drop snack wrapper
+0,10,beehive OF double
+0,0,take off jacket
+0,3,spot on osprey
+0,-5,missing binocs
+0,0,careful hiking
+0,0,clear skies above
+-1,0,reapply sunscreen
+0,2,solitary geyser
+-1,0,find engelmann spruce
+0,0,hear chickadees
+0,0,return to boardwalk
+0,0,eat trail mix
+1,0,no reception
+0,0,pas google earth guy
 0,0,tune in to walkie talkie (path join)
 0,0,drink from camelbaK
 -1,0,
