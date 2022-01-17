@@ -6,9 +6,15 @@
 Welcome to Pathtest's documentation!
 ====================================
 
+
+Hello there!
+
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+
+   license
 
 
 
